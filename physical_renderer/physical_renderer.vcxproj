@@ -160,6 +160,7 @@
     <ClInclude Include="Geometry.h" />
     <ClInclude Include="Light.h" />
     <ClInclude Include="Material.h" />
+    <ClInclude Include="Mesh.h" />
     <ClInclude Include="Plane.h" />
     <ClInclude Include="Ray.h" />
     <ClInclude Include="Shader.h" />
@@ -177,6 +178,7 @@
     <ClCompile Include="Geometry.cpp" />
     <ClCompile Include="Light.cpp" />
     <ClCompile Include="Material.cpp" />
+    <ClCompile Include="Mesh.cpp" />
     <ClCompile Include="physical_renderer.cpp" />
     <ClCompile Include="Plane.cpp" />
     <ClCompile Include="Ray.cpp" />
