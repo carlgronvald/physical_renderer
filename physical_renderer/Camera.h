@@ -2,6 +2,7 @@
 #include "glm/glm.hpp"
 #include "Ray.h"
 #include <iostream>
+#include <fstream>
 #include "Statics.h"
 
 #define PI 3.141593
@@ -45,5 +46,6 @@ public:
 		this->Pitch += pitch;
 		UpdateVectors();
 	}
+
 };
 
